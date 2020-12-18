@@ -8,6 +8,6 @@
 6. **[Support vector Machines notebook ](https://github.com/Learn-Write-Repeat/Open-contributions/blob/master/Sagar_ML_Support_Vector_Machine.ipynb)**
 7. **[Group Project](gp.md)** *Optional*
 
-8. **[Make your Portfolio](https://github.com/DevIncept/Portfolio)** *Optopnal*
+8. **[Make your Portfolio](https://github.com/DevIncept/Portfolio)** *Optional*
 
 9. **Quiz** Link will be shared    *(Mandatory)*

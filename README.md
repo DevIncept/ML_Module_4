@@ -10,4 +10,4 @@
 
 8. **[Make your Portfolio](https://github.com/DevIncept/Portfolio)** *Optopnal*
 
-9. **Quiz** Link will be shared *Optional*
+9. **Quiz** Link will be shared    *(Mandatory)*
